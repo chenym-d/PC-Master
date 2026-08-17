@@ -24,3 +24,5 @@
 ```bash
 pip install pillow psutil pywin32 requests speedtest-cli netifaces pyqrcode pypng send2trash
 python main.py
+```
+或双击运行 build.bat
